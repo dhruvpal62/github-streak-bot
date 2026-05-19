@@ -1,0 +1,29 @@
+{
+  "name": "github-streak-bot",
+  "version": "1.0.0",
+  "description": "A production-ready GitHub automation bot for legitimate scheduled maintenance updates, reports, and developer journals.",
+  "type": "module",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "dry-run": "node scripts/dry-run.js",
+    "lint": "node scripts/check-syntax.js",
+    "validate": "node scripts/validate-config.js"
+  },
+  "keywords": [
+    "github-actions",
+    "automation",
+    "developer-journal",
+    "scheduled-maintenance",
+    "streak"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
