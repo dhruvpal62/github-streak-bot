@@ -308,3 +308,9 @@ All notable scheduled maintenance updates are recorded here.
 - Updated focus areas: dependency hygiene, error handling, developer experience.
 - Touched 6 generated project file(s).
 
+## 2026-09-25
+
+- Refreshed scheduled maintenance artifacts.
+- Updated focus areas: release readiness, dependency hygiene, observability.
+- Touched 6 generated project file(s).
+
